@@ -14,3 +14,6 @@ Por ser um projeto simples, faz mais sentido usar tecnologias básicas assim com
 ## ⚠️Problemas enfrentados
  ### Calcular o que tem no display
  * A maior dificuldade que encontrei foi no momento de planejar o cálculo do que era exibido no display da calculadora. Até que, por meio do tutorial, conheci a função **eval**, nativa do javascript.
+<br/>
+
+### ➡️ Você pode visualizar a página acessando o link: https://carlos-henriquee.github.io/calculadora-js/
